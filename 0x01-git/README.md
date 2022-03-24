@@ -1,2 +1,2 @@
 My alx readme
-my first commit on gethub.com
+my first commit on gethub.comm
